@@ -1,0 +1,8 @@
+{
+  "name": "monorepo",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.2.5",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
